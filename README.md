@@ -11,7 +11,7 @@
 - 🌱 Learning more about **AI, Automations and Algorithms**.
 - 📫 How to reach me **bajibpathan@gmail.com**
 
----
+
 
 ## Connect with me
 
@@ -22,7 +22,7 @@
     <a href="https://github.com/bajibpathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bajipathan" height="30" width="40" /></a>
 </p>
 
----
+
 
 ## My Tech Stack
 <div align="left">
@@ -74,14 +74,14 @@
 </div>
 
 
----
+
 
 ## Support
 
 <p><a href="https://www.buymeacoffee.com/bajipathan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bajipathan" /></a></p><br><br>
 <br>
 
----
+
 
 ## Github Stats
 
