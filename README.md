@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bajibpathan&label=Profile%20views&color=0e75b6&style=flat" alt="bajibpathan" /> </p>
 
 
-- 🌱 Learning more about **AI, Automations and Algorithms**.
+- 🌱 Learning more about **AI, ML and Algorithms**.
 - 📫 How to reach me **bajibpathan@gmail.com**
 
 
