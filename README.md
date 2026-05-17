@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Baji Pathan</h1>
 <img align="right" alt="Coding" width="120" src="https://media1.tenor.com/m/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&pause=1000&color=4FAE4EEE&width=500&lines=%F0%9F%94%AD+DevOps+%2F+Cloud+%2F+Observability+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&pause=1000&color=4FAE4EEE&width=500&lines=%F0%9F%94%AD+Cloud+%2F+DevOps+%2F+Observability+Enthusiast" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bajibpathan&label=Profile%20views&color=0e75b6&style=flat" alt="bajibpathan" /> </p>
 
