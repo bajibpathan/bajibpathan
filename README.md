@@ -62,9 +62,6 @@
 
 <div align="left">
 
-![Baji's GitHub stats](https://github-readme-stats.vercel.app/api?username=bajibpathan&rank_icon=github&theme=vision-friendly-dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bajibpathan&layout=compact&theme=vision-friendly-dark&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bajibpathan&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
 
