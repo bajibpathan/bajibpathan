@@ -1,58 +1,158 @@
-<div>
 
-<h1 align="left">Hi 👋, I'm Baji Pathan</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&pause=1000&color=4FAE4EEE&width=500&lines=%F0%9F%94%AD+Cloud+%2F+DevOps+%2F+Observability+Enthusiast" alt="Typing SVG" /></a>
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+# <div align="center">Hi there 👋 I'm Baji Pathan</div>
 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1200&color=4FAE4E&center=true&vCenter=true&width=850&lines=Cloud+Engineer;Enterprise+Observability+Consultant;Infrastructure+Automation+Engineer;Building+Production-Ready+AWS+Solutions)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bajibpathan&label=Profile%20views&color=0e75b6&style=flat" alt="bajibpathan" /> </p>
-
-
-- 🌱 Learning more about **AI, ML and Algorithms**.
-- 📫 How to reach me **bajibpathan@gmail.com**
-
-
-
-## Connect with me
-
-<p align="left">
-    <a href="https://linkedin.com/in/baji-pathan-041529a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baji-pathan-041529a6/" height="30" width="40" /></a>
-    <a href="https://instagram.com/bajipathanyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bajipathanyt" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/bajipathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bajipathan" height="30" width="40" /></a>
-    <a href="https://github.com/bajibpathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bajipathan" height="30" width="40" /></a>
-</p>
-
-
-
-## My Tech Stack
-
-  
-  ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white) ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)<br>
-  ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)<br>
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)<br>
-  ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff) ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)<br>
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff)<br>![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)<br>
-  ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important) ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)<br>
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white)<br>
-  ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=fff) ![Dynatrace](https://img.shields.io/badge/dynatrace-orange) ![Splun k](https://img.shields.io/badge/splunk-blue)
-
-
-
-## Support
-
-<p><a href="https://www.buymeacoffee.com/bajipathan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bajipathan" /></a></p><br><br>
-<br>
-
-
-
-## Github Stats
-
-<div align="left">
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bajibpathan&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Baji%20Pathan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/baji-pathan-041529a6)
+[![YouTube](https://img.shields.io/badge/YouTube-BajiPathan-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/bajipathan)
+![Profile Views](https://komarev.com/ghpvc/?username=bajibpathan&style=for-the-badge&color=0e75b6)
 
 </div>
+
+---
+
+# 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+I'm an **Enterprise Observability Consultant** with **14+ years of experience** in Performance Engineering, Monitoring, Infrastructure Automation, and Enterprise Observability across large-scale financial organizations.
+
+I'm currently expanding my expertise into **AWS Cloud Engineering** by building production-style cloud projects, Infrastructure as Code (Terraform), automation, and cloud-native architectures.
+
+> **Mission:** Build secure, scalable and observable cloud solutions while sharing my learning journey with the community.
+
+---
+
+
+# 🎯 Current Mission
+
+I'm leveraging my enterprise observability and infrastructure automation experience to become a Cloud Engineer by building real-world AWS solutions.
+
+My current focus includes:
+
+- ☁️ Designing and deploying AWS cloud solutions
+- 🏗️ Building Infrastructure as Code using Terraform
+- ⚙️ Automating cloud operations with Python
+- 📊 Implementing cloud observability and monitoring
+- 🔒 Applying AWS security and Well-Architected best practices
+- 🤖 Exploring AI services for Cloud Engineers
+---
+
+
+# 🚀 Professional Evolution
+
+| 🏦 Enterprise Experience | ☁️ Current Focus | 🎯 Future Vision |
+|--------------------------|-----------------|-----------------|
+| **Performance Engineering** | **AWS Cloud Engineering** | **Cloud Architecture** |
+| **Enterprise Observability** | **Terraform & Automation** | **AI-Powered Cloud Solutions** |
+| **Infrastructure Automation** | **Production Cloud Projects** | **Enterprise Architecture** |
+
+---
+
+# 📈 Professional Roadmap
+
+| Stage | Status |
+|--------|:------:|
+| 🏦 Enterprise Performance Engineering | ✅ Expert |
+| 📊 Enterprise Observability | ✅ Expert |
+| ⚙️ Infrastructure Automation | ✅ Advanced |
+| ☁️ AWS Cloud Engineering | 🚧 Building |
+| 🏗️ Infrastructure as Code | 🚧 Building |
+| 🤖 AI for Cloud Engineers | 🌱 Learning |
+| 🏛️ Cloud Architecture | 🎯 Goal |
+
+---
+
+# ☁️ Core Technology Stack
+
+### Cloud Platforms
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### 📊 Observability
+
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+### ⚙️ Infrastructure & DevOps
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### 💻 Programming & Automation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🖥️ Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+---
+
+# 🎯 Professional Growth
+
+## 🌱 What I'm Working On
+
+I'm currently expanding my enterprise infrastructure and observability experience into modern cloud engineering by focusing on:
+
+- ☁️ AWS Cloud Engineering
+- 🏗️ Infrastructure as Code (Terraform)
+- 🤖 AI for Cloud Engineers
+- ⚙️ Cloud Automation with Python
+- 📊 Cloud Observability
+
+## 📜 AWS Certification Journey
+
+| Certification | Status |
+|---------------|--------|
+| AWS Certified Cloud Practitioner | 🔄 Renewal Planned |
+| AWS Certified Solutions Architect – Associate | 🔄 Renewal Planned |
+| AWS Certified Solutions Architect – Professional | 🎯 Future Goal |
+
+---
+
+# 📂 Portfolio Roadmap
+
+I'm building a public portfolio that demonstrates real-world AWS cloud engineering skills.
+
+| Repository | Purpose | Status |
+|------------|---------|--------|
+| AWS Learning Journey | Notes, labs & interview preparation | 🚧 |
+| AWS Cloud Projects | Production-style AWS projects | 🚧 |
+| Terraform AWS | Infrastructure as Code | 🚧 |
+| Python Cloud Automation | AWS automation scripts | 🚧 |
+| Observability Lab | Monitoring & observability solutions | 🚧 |
+| Cloud Portfolio | Architecture & project showcase | 🚧 |
+
+
+> Repositories are being built and will be published as I progress.
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bajibpathan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajibpathan&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=bajibpathan&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/baji-pathan/
+- 📧 Email: bajibpathan@gmail.com
+
+---
+
+<div align="center">
+
+## ⭐ Learn • Build • Share • Repeat ⭐
+
+*"Turning enterprise infrastructure experience into modern cloud engineering through continuous learning and hands-on projects."*
 
 </div>
