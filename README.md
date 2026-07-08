@@ -5,9 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1200&color=4FAE4E&center=true&vCenter=true&width=850&lines=Cloud+Engineer;Enterprise+Observability+Consultant;Infrastructure+Automation+Engineer;Building+Production-Ready+AWS+Solutions)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Baji%20Pathan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/baji-pathan-041529a6)
-[![YouTube](https://img.shields.io/badge/YouTube-BajiPathan-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/bajipathan)
-![Profile Views](https://komarev.com/ghpvc/?username=bajibpathan&style=for-the-badge&color=0e75b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Baji%20Pathan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/baji-pathan-041529a6) ![Profile Views](https://komarev.com/ghpvc/?username=bajibpathan&style=for-the-badge&color=0e75b6)
 
 </div>
 
@@ -131,10 +129,6 @@ I'm building a public portfolio that demonstrates real-world AWS cloud engineeri
 
 # 📊 GitHub Statistics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bajibpathan&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajibpathan&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=bajibpathan&theme=tokyonight&hide_border=true"/>
