@@ -19,7 +19,7 @@ I'm an **Enterprise Observability Consultant** with **14+ years of experience** 
 
 I'm currently expanding my expertise into **AWS Cloud Engineering** by building production-style cloud projects, Infrastructure as Code (Terraform), automation, and cloud-native architectures.
 
-> **Mission:** Build secure, scalable and observable cloud solutions while sharing my learning journey with the community.
+> **Mission:** Building secure, scalable, and observable cloud solutions while documenting my learning journey and sharing knowledge with the community.
 
 ---
 
@@ -49,19 +49,6 @@ My current focus includes:
 
 ---
 
-# 📈 Professional Roadmap
-
-| Stage | Status |
-|--------|:------:|
-| 🏦 Enterprise Performance Engineering | ✅ Expert |
-| 📊 Enterprise Observability | ✅ Expert |
-| ⚙️ Infrastructure Automation | ✅ Advanced |
-| ☁️ AWS Cloud Engineering | 🚧 Building |
-| 🏗️ Infrastructure as Code | 🚧 Building |
-| 🤖 AI for Cloud Engineers | 🌱 Learning |
-| 🏛️ Cloud Architecture | 🎯 Goal |
-
----
 
 # ☁️ Core Technology Stack
 
@@ -92,7 +79,7 @@ My current focus includes:
 
 ## 🌱 What I'm Working On
 
-I'm currently expanding my enterprise infrastructure and observability experience into modern cloud engineering by focusing on:
+I'm strengthening my cloud engineering expertise by building real-world AWS solutions and documenting every step of the journey.
 
 - ☁️ AWS Cloud Engineering
 - 🏗️ Infrastructure as Code (Terraform)
