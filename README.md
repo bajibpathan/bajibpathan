@@ -97,21 +97,20 @@ I'm strengthening my cloud engineering expertise by building real-world AWS solu
 
 ---
 
-# 📂 Portfolio Roadmap
+# 📂 Featured Repositories
 
-I'm building a public portfolio that demonstrates real-world AWS cloud engineering skills.
+These repositories showcase my journey from **Enterprise Observability** to **AWS Cloud Engineering**, including hands-on learning, production-style projects, automation, and cloud architecture.
 
 | Repository | Purpose | Status |
-|------------|---------|--------|
-| AWS Learning Journey | Notes, labs & interview preparation | 🚧 |
-| AWS Cloud Projects | Production-style AWS projects | 🚧 |
-| Terraform AWS | Infrastructure as Code | 🚧 |
-| Python Cloud Automation | AWS automation scripts | 🚧 |
-| Observability Lab | Monitoring & observability solutions | 🚧 |
-| Cloud Portfolio | Architecture & project showcase | 🚧 |
+|------------|---------|:------:|
+| **[☁️ AWS Learning Journey](https://github.com/bajibpathan/aws-learning-journey)** | AWS concepts, hands-on labs, architecture diagrams, and interview preparation | 🚧 Active |
+| **[🚀 AWS Cloud Projects](https://github.com/bajibpathan/aws-cloud-projects)** | Production-style AWS projects demonstrating real-world cloud engineering solutions | 🚧 Active |
+| **🏗️ Terraform AWS** *(Coming Soon)* | Infrastructure as Code using Terraform for AWS resources | ⏳ Planned |
+| **🐍 Python Cloud Automation** *(Coming Soon)* | Python scripts for AWS automation, scripting, and operational tasks | ⏳ Planned |
+| **📊 Observability Lab** *(Coming Soon)* | Monitoring, logging, tracing, and observability solutions using AWS and enterprise tools | ⏳ Planned |
+| **🏛️ Cloud Portfolio** *(Coming Soon)* | End-to-end cloud architectures, design documents, and project showcase | ⏳ Planned |
 
-
-> Repositories are being built and will be published as I progress.
+> 🚀 **Currently building and publishing new content regularly. Follow my journey as I document concepts, complete hands-on labs, and build production-style AWS projects.**
 ---
 
 # 📊 GitHub Statistics
