@@ -1,9 +1,8 @@
-
 # <div align="center">Hi there 👋 I'm Baji Pathan</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1200&color=4FAE4E&center=true&vCenter=true&width=900&lines=Cloud+Engineer;Enterprise+Observability+Consultant;Building+Production-Inspired+AWS+Projects;Sharing+Cloud+Engineering+Knowledge)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1200&color=4FAE4E&center=true&vCenter=true&width=900&lines=Cloud+Engineer;Enterprise+Observability+Consultant;Building+Production-Inspired+AWS+Systems;Learning+by+Building+%26+Breaking;Sharing+Cloud+Engineering+Knowledge)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Baji%20Pathan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/baji-pathan-041529a6) ![Profile Views](https://komarev.com/ghpvc/?username=bajibpathan&style=for-the-badge&color=0e75b6)
 
@@ -17,57 +16,77 @@
 
 I'm an **Enterprise Observability Consultant** with **14+ years of experience** in Performance Engineering, Monitoring, Infrastructure Automation, and Enterprise Observability across large-scale financial organizations.
 
-I'm currently focused on AWS Cloud Engineering, building production-inspired cloud projects that demonstrate serverless architecture, event-driven systems, Infrastructure as Code, automation, and cloud-native design.
+I'm currently expanding that experience into **AWS Cloud Engineering**, building production-inspired systems from first principles rather than simply deploying individual AWS services.
 
-Over the past several months, I've built a portfolio of production-inspired AWS projects that demonstrate practical cloud engineering skills through hands-on implementation, architecture design, and comprehensive technical documentation.
+My hands-on projects focus on understanding **architecture, Linux, networking, resilience, automation, observability, security, and failure scenarios** — including what happens when systems break and how they recover.
 
-
-> **Mission:** Building secure, scalable, and observable cloud solutions while documenting my learning journey and sharing knowledge with the community.
+> **Mission:** Build secure, resilient, scalable, and observable cloud systems while developing strong cloud engineering and architecture skills through hands-on implementation.
 
 ---
 
- # ⭐ Featured Portfolio
+# ⭐ Featured Portfolio
 
-My GitHub portfolio showcases production-inspired AWS projects that demonstrate practical cloud engineering skills through hands-on implementation.
-
-The portfolio emphasizes serverless architecture, event-driven systems, Generative AI, Infrastructure as Code, observability, security, and AWS Well-Architected best practices.
+My portfolio focuses on solving cloud engineering problems through hands-on implementation, architecture design, failure testing, troubleshooting, and technical documentation.
 
 ## 🚀 AWS Cloud Engineering Portfolio
 
 **Explore the complete portfolio:**  
 👉 **[AWS Cloud Engineering Portfolio](https://github.com/bajibpathan/aws-cloud-projects)**
 
+### 🌟 Featured Projects
 
-### 🌟 Flagship Projects
-
-| Project | Focus |
-|---------|-------|
-| 🤖 **AWS AI Resume Builder** | Serverless AI application using Amazon Bedrock, Amazon Textract, Cognito, API Gateway, Lambda, and DynamoDB |
-| ✨ **Serverless AI CV Enhancer** | AI-powered resume enhancement using Amazon Bedrock and a fully serverless AWS architecture |
-| 📸 **AWS Event-Driven Image Processing** | Event-driven image processing using Amazon S3 Event Notifications, AWS Lambda, DynamoDB, and CloudWatch |
-
-### 🚧 Currently Building
-
-- 🏗️ Three-Tier Web Application on AWS
-- 🌍 Infrastructure as Code with Terraform
-- 🚀 CI/CD with GitHub Actions
-- 📦 Containerized Applications using Amazon ECS
-
-> Every project includes architecture diagrams, implementation guides, Architecture Decision Records (ADRs), interview preparation material, and detailed technical documentation.
+| Project | Engineering Focus |
+|---------|-------------------|
+| 🏗️ **CloudOps Hub** | Evolving 3-tier cloud engineering project built from first principles — Linux, Nginx, Flask, PostgreSQL, AWS infrastructure, troubleshooting, and progressive automation |
+| 🛡️ **AWS Resilient Architecture Lab** | Highly available Multi-AZ architecture, load balancing, Auto Scaling, private networking, failure testing, and recovery |
+| ✨ **Serverless AI CV Enhancer** | Generative AI application using Amazon Bedrock, Lambda, API Gateway, DynamoDB, CloudWatch, and X-Ray |
+| 🤖 **AWS AI Resume Builder** | Serverless AI architecture using Amazon Bedrock, Textract, Cognito, API Gateway, Lambda, and DynamoDB |
+| 📸 **AWS Event-Driven Image Processing** | Event-driven architecture using Amazon S3 Event Notifications, Lambda, DynamoDB, and CloudWatch |
 
 ---
+
+## 🏗️ CloudOps Hub — Current Journey
+
+CloudOps Hub is my long-term hands-on cloud engineering project where I build, operate, troubleshoot, and progressively automate a real application environment.
+
+### ✅ V1 — Manual Build Complete
+
+```text
+User
+  ↓
+Nginx
+  ↓
+Flask Application
+  ↓
+PostgreSQL
+```
+
+V1 was intentionally built manually to understand how the infrastructure and application components work together before introducing automation.
+
+The project is progressing through an engineering journey:
+
+**Manual Build → Shell Automation → Configuration Management → Infrastructure as Code → Containers → Orchestration → CI/CD → Observability**
+
+The goal is not just to learn tools, but to understand **what problem each tool solves and why it becomes necessary as the system evolves**.
+
+---
+
 # 🎯 Current Focus
 
-I'm currently building production-inspired AWS projects while expanding my expertise in cloud engineering and modern infrastructure.
-
-My current focus includes:
+My current learning is centered around building stronger cloud engineering fundamentals through practical systems.
 
 - ☁️ AWS Cloud Architecture
-- 🏗️ Infrastructure as Code (Terraform)
-- ⚙️ Cloud Automation (Python)
-- 📊 Cloud Observability
-- 🔒 Security & AWS Well-Architected Framework
-- 🤖 Generative AI with Amazon Bedrock
+- 🐧 Linux & System Administration
+- 🌐 Cloud Networking
+- 🛡️ High Availability & Resilience
+- ⚙️ Shell Scripting & Automation
+- 📊 Observability & Troubleshooting
+- 🔒 Cloud Security
+- 🧠 Architecture Trade-offs & Failure Analysis
+
+### 🔨 Currently Working On
+
+**CloudOps Hub:** progressing from the completed manual V1 implementation toward automation, while continuing focused AWS architecture labs.
 
 ---
 
@@ -116,7 +135,6 @@ My current focus includes:
   <img src="https://streak-stats.demolab.com?user=bajibpathan&theme=tokyonight&hide_border=true"/>
 </p>
 
-
 ---
 
 # 🤝 Connect With Me
@@ -128,7 +146,7 @@ My current focus includes:
 
 <div align="center">
 
-## ⭐ Learn • Build • Share • Repeat ⭐
+## ⭐ Learn • Build • Break • Fix • Share ⭐
 
 *"Turning enterprise infrastructure experience into modern cloud engineering through continuous learning and hands-on projects."*
 
