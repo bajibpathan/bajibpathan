@@ -37,7 +37,7 @@ My portfolio focuses on solving cloud engineering problems through hands-on impl
 
 | Project | Engineering Focus |
 |---------|-------------------|
-| 🏗️ **CloudOps Hub** | Evolving 3-tier cloud engineering project built from first principles — Linux, Nginx, Flask, PostgreSQL, AWS infrastructure, troubleshooting, and progressive automation |
+| 🏗️ **[CloudOps Hub](https://github.com/bajibpathan/cloudops-hub)** | Evolving 3-tier cloud engineering project built from first principles — Linux, Nginx, Flask, PostgreSQL, AWS infrastructure, troubleshooting, and progressive automation |
 | 🛡️ **AWS Resilient Architecture Lab** | Highly available Multi-AZ architecture, load balancing, Auto Scaling, private networking, failure testing, and recovery |
 | ✨ **Serverless AI CV Enhancer** | Generative AI application using Amazon Bedrock, Lambda, API Gateway, DynamoDB, CloudWatch, and X-Ray |
 | 🤖 **AWS AI Resume Builder** | Serverless AI architecture using Amazon Bedrock, Textract, Cognito, API Gateway, Lambda, and DynamoDB |
@@ -51,6 +51,20 @@ CloudOps Hub is my long-term hands-on cloud engineering project where I build, o
 
 ### ✅ V1 — Manual Build Complete
 
+V1 was intentionally built **manually on AWS** to understand how each infrastructure and application component works before introducing automation.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bajibpathan/cloudops-hub/main/docs/architecture/cloudops-hub-v1-architecture.png"
+       alt="CloudOps Hub V1 Architecture"
+       width="850"/>
+</p>
+
+<p align="center">
+  <b>CloudOps Hub V1 — Manual Three-Tier Architecture</b>
+</p>
+
+### 🔄 Request Flow
+
 ```text
 User
   ↓
@@ -61,13 +75,24 @@ Flask Application
 PostgreSQL
 ```
 
-V1 was intentionally built manually to understand how the infrastructure and application components work together before introducing automation.
+### 🧠 What V1 Demonstrates
 
-The project is progressing through an engineering journey:
+- 🐧 Manual Linux server configuration
+- 🌐 Nginx web server and reverse proxy
+- ⚙️ Flask application deployment
+- 🗄️ PostgreSQL database integration
+- 🔧 systemd service management
+- 🔗 End-to-end application connectivity
+- 🔍 Troubleshooting across web, application, and database layers
+- ☁️ Hands-on AWS infrastructure deployment
+
+### 🚀 Evolution
+
+CloudOps Hub will progressively evolve as new engineering problems are introduced:
 
 **Manual Build → Shell Automation → Configuration Management → Infrastructure as Code → Containers → Orchestration → CI/CD → Observability**
 
-The goal is not just to learn tools, but to understand **what problem each tool solves and why it becomes necessary as the system evolves**.
+> The goal is not simply to learn tools. Each stage introduces a problem first, followed by the technology that helps solve it.
 
 ---
 
@@ -105,7 +130,7 @@ My current learning is centered around building stronger cloud engineering funda
 
 ### 🚀 DevOps & CI/CD
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24939?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
