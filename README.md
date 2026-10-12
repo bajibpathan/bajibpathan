@@ -4,7 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1200&color=4FAE4E&center=true&vCenter=true&width=900&lines=Cloud+Engineer;Enterprise+Observability+Consultant;Building+Production-Inspired+AWS+Systems;Learning+by+Building+%26+Breaking;Sharing+Cloud+Engineering+Knowledge)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Baji%20Pathan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/baji-pathan-041529a6) ![Profile Views](https://komarev.com/ghpvc/?username=bajibpathan&style=for-the-badge&color=0e75b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Baji%20Pathan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/baji-pathan-041529a6) 
+
+![Profile Views](https://komarev.com/ghpvc/?username=bajibpathan&label=Profile%20Views&color=0e75b6&style=for-the-badge&v=2)
 
 </div>
 
