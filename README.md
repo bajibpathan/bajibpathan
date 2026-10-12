@@ -59,6 +59,8 @@ My current learning is centered on strengthening cloud engineering fundamentals 
 
 I publish projects here after they reach a complete, validated, and well-documented state.
 
+**Current project:** completing recovery validation, cleanup, and final documentation for a three-tier AWS recipe application built with VPC, ALB, EC2 Auto Scaling, RDS MySQL, S3, Secrets Manager, and Systems Manager.
+
 ---
 
 # ☁️ Core Technology Stack
